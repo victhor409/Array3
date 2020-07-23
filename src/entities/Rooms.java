@@ -43,7 +43,7 @@ public class Rooms {
 
 	@Override
 	public String toString() {
-		return room + ": " + name + ", " + mail;
+		return "Rooms: "+ room + ": " + name + ", " + mail;
 	}
 	
 	
